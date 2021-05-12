@@ -16,7 +16,7 @@
     "core-js": "3.6.5",
     "ngx-swiper-wrapper": "^9.0.1",
     "rxjs": "6.5.5",
-    "swiper": "5.3.7",
+    "swiper": "6.5.1",
     "tslib": "^2.0.0",
     "zone.js": "0.10.3"
   },
